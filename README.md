@@ -14,8 +14,6 @@
 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nguyendinhhieu1309&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 👨‍💻 All of my projects are available at [https://github.com/nguyendinhhieu1309/Pygame_Machine_Learning.git
+https://github.com/nguyendinhhieu1309/Machine_Learning_Mediapipe.git https://github.com/nguyendinhhieu1309/Data_Structures_and_Algorithm_with_Python.git https://github.com/nguyendinhhieu1309/Computer_Vision.git](https://github.com/nguyendinhhieu1309/Pygame_Machine_Learning.git https://github.com/nguyendinhhieu1309/Machine_Learning_Mediapipe.git https://github.com/nguyendinhhieu1309/Data_Structures_and_Algorithm_with_Python.git https://github.com/nguyendinhhieu1309/Computer_Vision.git)
 
----
-[![](https://visitcount.itsvg.in/api?id=nguyendinhhieu1309&icon=0&color=0)](https://visitcount.itsvg.in)
