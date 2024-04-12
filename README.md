@@ -1,4 +1,4 @@
-### WELL COME TO MY PAGR 👋👋👋
+### WELL COME TO MY PAGE 👋👋👋
 
 
 ## 📫 How to reach me:
