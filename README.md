@@ -10,4 +10,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyendinhhieu1309&theme=tokyonight&show_icons=true)
 
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nguyendinhhieu1309&repo=github-readme-stats)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/nguyendinhhieu1309/Pygame_Machine_Learning.git))
