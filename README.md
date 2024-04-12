@@ -12,3 +12,4 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nguyendinhhieu1309&repo=Pygame_Machine_Learning)](https://github.com/nguyendinhhieu1309/Pygame_Machine_Learning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
