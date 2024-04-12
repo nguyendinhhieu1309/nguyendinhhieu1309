@@ -1,7 +1,7 @@
-### Hi there 👋
+### WELL COME TO MY PAGR 👋👋👋
 
 
-## 🌐 Socials:
+## 📫 How to reach me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hieu.130920049) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nguyễn-đình-hiếu-818778303) 
 
 # 💻 Tech Stack:
