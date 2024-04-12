@@ -12,4 +12,4 @@
 
 
 [![Readme Card](https://Pygame_Machine_Learning.vercel.app/api/pin/?username=Breadcrumbsnguyendinhhieu1309
-&repo=Pygame_Machine_Learning)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/nguyendinhhieu1309/Pygame_Machine_Learning.git))
+&repo=Pygame_Machine_Learning)](https://github.com/nguyendinhhieu1309/Pygame_Machine_Learning.git))
