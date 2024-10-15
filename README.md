@@ -1,5 +1,5 @@
 ### WELL COME TO MY PAGE 👋👋👋
-My name is Hieu. I am an Student in Computer Science, majoring in Artificial Intelligence. I am interested in the following topics: Data Science, Machine Learning, Deep Learning and Computer Vision.
+My name is Hieu. I am an Student in Computer Science, majoring in Artificial Intelligence. I have a deep passion for AI, machine learning, and deep learning, and I enjoy learning about and exploring AI-related products. I have had the opportunity to work on a research paper on Style-GAN, which gave me useful practical experience.My working style: Dedication to learn.I'm excited about new opportunities and challenges where I can learn and develop AI tools. I enjoy connecting with new people and hearing new perspectives
 
 ## 📫 How to reach me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hieu.130920049) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nguyễn-đình-hiếu-818778303) 
@@ -26,4 +26,4 @@ My name is Hieu. I am an Student in Computer Science, majoring in Artificial Int
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nguyendinhhieu1309&repo=Machine_Learning_Mediapipe&theme=blue-green&show_icons=true)](https://github.com/nguyendinhhieu1309/Machine_Learning_Mediapipe)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nguyendinhhieu1309&repo=Face_Recognition_Attendance&theme=gruvbox&show_icons=true)](https://github.com/nguyendinhhieu1309/Face_Recognition_Attendance.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nguyendinhhieu1309&repo=Data_Structures_and_Algorithm_with_Python&theme=great-gatsby&show_icons=true)](https://github.com/nguyendinhhieu1309/Data_Structures_and_Algorithm_with_Python)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nguyendinhhieu1309&repo=Mario_Learn_Japanese&theme=vision-friendly-dark&show_icons=true)](https://github.com/nguyendinhhieu1309/Mario-Learn-Japanese.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nguyendinhhieu1309&repo=Mario_Learn_Japanese&theme=synthwave&show_icons=true)](https://github.com/nguyendinhhieu1309/Mario-Learn-Japanese.git)
