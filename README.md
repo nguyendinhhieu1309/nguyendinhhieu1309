@@ -24,6 +24,6 @@ My name is Hieu. I am an Student in Computer Science, majoring in Artificial Int
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nguyendinhhieu1309&repo=Brain_Tumor_Detection&theme=neon&show_icons=true)](https://github.com/nguyendinhhieu1309/Brain_Tumor_Detection.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nguyendinhhieu1309&repo=Pygame_Machine_Learning&theme=monokai&show_icons=true)](https://github.com/nguyendinhhieu1309/Pygame_Machine_Learning)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nguyendinhhieu1309&repo=Machine_Learning_Mediapipe&theme=blue-green&show_icons=true)](https://github.com/nguyendinhhieu1309/Machine_Learning_Mediapipe)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nguyendinhhieu1309&repo=Computer_Vision&theme=gruvbox&show_icons=true)](https://github.com/nguyendinhhieu1309/Face_Recognition_Attendance.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nguyendinhhieu1309&repo=Face_Recognition_Attendance&theme=gruvbox&show_icons=true)](https://github.com/nguyendinhhieu1309/Face_Recognition_Attendance.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nguyendinhhieu1309&repo=Data_Structures_and_Algorithm_with_Python&theme=great-gatsby&show_icons=true)](https://github.com/nguyendinhhieu1309/Data_Structures_and_Algorithm_with_Python)
 
