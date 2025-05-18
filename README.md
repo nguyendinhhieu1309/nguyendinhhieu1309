@@ -22,7 +22,7 @@ My name is Hieu. I am an Student in Computer Science, majoring in Artificial Int
 
 # 👨‍💻 All Of My Projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nguyendinhhieu1309&repo=VITON-Extends&theme=great-gatsby&show_icons=true)](https://github.com/nguyendinhhieu1309/VITON-Extends.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nguyendinhhieu1309&repo=Face_Recognition_Attendance&theme=gruvbox&show_icons=true)](https://github.com/nguyendinhhieu1309/Cultural_Heritage.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nguyendinhhieu1309&repo=Cultural_Heritage&theme=gruvbox&show_icons=true)](https://github.com/nguyendinhhieu1309/Cultural_Heritage.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nguyendinhhieu1309&repo=Brain_Tumor_Detection&theme=neon&show_icons=true)](https://github.com/nguyendinhhieu1309/Brain_Tumor_Detection.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nguyendinhhieu1309&repo=Pygame_Machine_Learning&theme=monokai&show_icons=true)](https://github.com/nguyendinhhieu1309/Pygame_Machine_Learning)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nguyendinhhieu1309&repo=Machine_Learning_Mediapipe&theme=blue-green&show_icons=true)](https://github.com/nguyendinhhieu1309/Machine_Learning_Mediapipe)
