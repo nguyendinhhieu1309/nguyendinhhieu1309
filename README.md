@@ -22,6 +22,8 @@ My name is Hieu. I am an Student in Computer Science, majoring in Artificial Int
 
 
 # 👨‍💻 All Of My Projects:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nguyendinhhieu1309&repo=EquiFashion&theme=synthwave&show_icons=true)](https://github.com/nguyendinhhieu1309/EquiFashion.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nguyendinhhieu1309&repo=DEQ-EC&theme=blue-green&show_icons=true)](https://github.com/nguyendinhhieu1309/DEQ-EC.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nguyendinhhieu1309&repo=VITON-Extends&theme=great-gatsby&show_icons=true)](https://github.com/nguyendinhhieu1309/VITON-Extends.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nguyendinhhieu1309&repo=Cultural_Heritage&theme=gruvbox&show_icons=true)](https://github.com/nguyendinhhieu1309/Cultural_Heritage.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nguyendinhhieu1309&repo=PR-VTON&theme=synthwave&show_icons=true)](https://github.com/nguyendinhhieu1309/PR-VTON.git)
